@@ -1,0 +1,18 @@
+*{
+      background-color: sandybrown;
+      list-style: none;
+}
+
+.custom-padding{
+      display: flex;
+      text-align: end;
+}
+
+.bio{
+display: flex;
+text-align: center;
+}
+
+.bio-image{
+      align-items: center;
+}
